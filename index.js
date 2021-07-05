@@ -12,9 +12,9 @@ var marker = new mapboxgl.Marker()
 .setLngLat([74.82161238212426, 26.48608982905810])
 .addTo(map);
 
-const clickBtn = document.getElementById("button1");
+// const clickBtn = document.getElementById("button1");
 
 
-clickBtn.addEventListener("click",() =>{
-  alert("The Info is been successfully submitted");
-})
+// clickBtn.addEventListener("click",() =>{
+//   alert("The Info is been successfully submitted");
+// })

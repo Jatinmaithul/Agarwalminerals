@@ -179,4 +179,9 @@ nav{
     margin-top: 10px;
     margin-bottom: -1px
   }
-  
+
+@media (max-width:480px) {
+    body{
+        text-align: center;
+    }
+}
